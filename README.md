@@ -9,4 +9,4 @@ To Detect and Classify Brain Tumors using CNN and TL.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/brain-tumor-classification-segmentation.git
+   git clone https://github.com/<joalsebaey>/brain-tumor-classification-segmentation.git
